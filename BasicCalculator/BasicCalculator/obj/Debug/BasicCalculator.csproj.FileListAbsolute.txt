@@ -1,0 +1,14 @@
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.FrmBasicCalculator.resources
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CopyComplete
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\terencio.268853\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
